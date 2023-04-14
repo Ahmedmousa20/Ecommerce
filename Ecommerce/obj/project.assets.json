@@ -7491,11 +7491,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\FCAIH\\course\\interview tasks\\ECC Solutions Company\\Ecommerce\\Ecommerce.csproj",
+      "projectUniqueName": "C:\\Users\\g\\Documents\\my-github\\Ecommerce-Web-App\\Ecommerce\\Ecommerce.csproj",
       "projectName": "Ecommerce",
-      "projectPath": "E:\\FCAIH\\course\\interview tasks\\ECC Solutions Company\\Ecommerce\\Ecommerce.csproj",
+      "projectPath": "C:\\Users\\g\\Documents\\my-github\\Ecommerce-Web-App\\Ecommerce\\Ecommerce.csproj",
       "packagesPath": "C:\\Users\\g\\.nuget\\packages\\",
-      "outputPath": "E:\\FCAIH\\course\\interview tasks\\ECC Solutions Company\\Ecommerce\\obj\\",
+      "outputPath": "C:\\Users\\g\\Documents\\my-github\\Ecommerce-Web-App\\Ecommerce\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\g\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7512,8 +7512,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "E:\\FCAIH\\course\\interview tasks\\ECC Solutions Company\\Ecommerce.BLL\\Ecommerce.BLL.csproj": {
-              "projectPath": "E:\\FCAIH\\course\\interview tasks\\ECC Solutions Company\\Ecommerce.BLL\\Ecommerce.BLL.csproj"
+            "C:\\Users\\g\\Documents\\my-github\\Ecommerce-Web-App\\Ecommerce.BLL\\Ecommerce.BLL.csproj": {
+              "projectPath": "C:\\Users\\g\\Documents\\my-github\\Ecommerce-Web-App\\Ecommerce.BLL\\Ecommerce.BLL.csproj"
             }
           }
         }
