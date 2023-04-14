@@ -17,16 +17,6 @@ namespace Ecommerce.BLL.Repositories
             if (spec.Criteria != null)
                 query = query.Where(spec.Criteria);  //context.set<Product>().Where(p=>p.id==id)
 
-
-            //if (spec.OrderBy != null)
-            //    query = query.OrderBy(spec.OrderBy);
-            ////context.set<Product>().Where(p=>p.id==id).OrederBy(p=>p.Name)
-            ////or --> context.set<Product>().OrederBy(p=>p.Name)
-
-            //if (spec.OrderByDescending != null)
-            //    query = query.OrderByDescending(spec.OrderByDescending);
-            ////context.set<Product>().Where(p=>p.id==id).OrederByDesc(p=>p.Name)
-            ////or --> context.set<Product>().OrederByDesc(p=>p.Name)
             if(spec.Includes !=null)
                 query = spec.Includes.Aggregate(query, (currentQuery, include) => currentQuery.Include(include));
 

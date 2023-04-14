@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9zs0V5qI/d/hM1FvheVpJyhM/OF9TXwWybSfZAhXA/X94lKKiQILgoiYHKFyWmUKuSOM5dO0kZXnzLNflLph2g==",
+  "dgSpecHash": "LOrLEgOhJsjzmnpSxMuIY9oFNi6YKfcPCBmQm+WHFf0M/c9iD7EWsYaEf/Bez0T1y8hgaM60+6Bdgk3nw12fCw==",
   "success": true,
-  "projectFilePath": "E:\\FCAIH\\course\\interview tasks\\ECC Solutions Company\\Ecommerce.BLL\\Ecommerce.BLL.csproj",
+  "projectFilePath": "C:\\Users\\g\\Documents\\my-github\\Ecommerce-Web-App\\Ecommerce.BLL\\Ecommerce.BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\g\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\g\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

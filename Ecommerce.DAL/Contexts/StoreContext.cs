@@ -34,9 +34,6 @@ namespace Ecommerce.DAL.Contexts
            
         }
 
-        //protected override void OnModelCreating(ModelBuilder modelBuilder)
-        //{
-
-        //}
+     
     }
 }
