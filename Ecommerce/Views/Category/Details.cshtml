@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Details</h1>
+
+<br />
+<br />
+
+<div class="row">
+    <div class="col-6">
+        <form asp-action="Delete" asp-controller="Category" enctype="multipart/form-data">
+            <partial name="PartialViews/DetailsDeleteCategoryPartialView" />
+            <br />
+            <input type="submit" value="Delete" class="btn btn-danger" />
+            <a asp-action="Edit" class="btn btn-success">Update</a>
+
+            <a asp-action="Index" class="btn btn-light">Back To List</a>
+
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+
+}
+

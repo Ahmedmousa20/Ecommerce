@@ -1,0 +1,22 @@
+﻿@model Ecommerce.DTOs.ProductDto
+
+@{
+    var Categories = new SelectList(ViewBag.Categories, "Id", "Name");
+}
+
+
+<div class="form-group">
+    <label asp-for="@Model.Name" class="col-form-label"></label>
+    <input asp-for="@Model.Name" class="form-control" readonly />
+</div>
+<div class="form-group">
+    <label asp-for="@Model.Price" class="col-form-label"></label>
+    <input asp-for="@Model.Price" class="form-control" readonly />
+</div>
+
+<div class="form-group">
+    <label class="col-form-label">Department</label>
+    <select asp-for="@Model.CategoryId" asp-items="Categories" class="form-control" readonly>
+    </select>
+
+</div>
