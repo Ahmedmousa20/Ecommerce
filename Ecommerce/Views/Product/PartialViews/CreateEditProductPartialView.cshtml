@@ -16,7 +16,7 @@
 <div class="form-group">
     <label class="col-form-label">Category</label>
     <select asp-for="@Model.CategoryId" asp-items="Categories" class="form-control">
-        <option>-- Select Category --</option>
+        <option value="">-- Select Category --</option>
     </select>
     <span asp-validation-for="CategoryId" class="text-danger"></span>
 

@@ -13,7 +13,7 @@ namespace Ecommerce.Helpers
         {
             try
             {
-                var client = new SmtpClient("smtp.sendgrid.net", 587);
+                var client = new SmtpClient("smtp.sendgrid.net", 587); //Email Server
                 client.EnableSsl = true;//Encrypted
                 client.Credentials = new NetworkCredential("apikey", "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");
                 client.Send("dogaryahmed2017@gmail.com", email.To, email.Title, email.Body);

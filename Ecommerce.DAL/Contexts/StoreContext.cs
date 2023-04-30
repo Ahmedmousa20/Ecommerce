@@ -30,7 +30,6 @@ namespace Ecommerce.DAL.Contexts
                  .HasData(new Product { Id = 1, Name = "Clothes" },
                   new Product { Id = 2, Name = "Meats" },
                   new Product { Id = 3, Name = "Books" });
-
            
         }
 

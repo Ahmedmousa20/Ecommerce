@@ -13,3 +13,18 @@ E:\FCAIH\course\interview tasks\ECC Solutions Company\Ecommerce.DAL\obj\Debug\ne
 E:\FCAIH\course\interview tasks\ECC Solutions Company\Ecommerce.DAL\obj\Debug\net5.0\ref\Ecommerce.DAL.dll
 E:\FCAIH\course\interview tasks\ECC Solutions Company\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.pdb
 E:\FCAIH\course\interview tasks\ECC Solutions Company\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.genruntimeconfig.cache
+C:\Users\g\Documents\my-github\Ecommerce-Web-App\Ecommerce.DAL\bin\Debug\net5.0\Ecommerce.DAL.deps.json
+C:\Users\g\Documents\my-github\Ecommerce-Web-App\Ecommerce.DAL\bin\Debug\net5.0\Ecommerce.DAL.runtimeconfig.json
+C:\Users\g\Documents\my-github\Ecommerce-Web-App\Ecommerce.DAL\bin\Debug\net5.0\Ecommerce.DAL.runtimeconfig.dev.json
+C:\Users\g\Documents\my-github\Ecommerce-Web-App\Ecommerce.DAL\bin\Debug\net5.0\Ecommerce.DAL.dll
+C:\Users\g\Documents\my-github\Ecommerce-Web-App\Ecommerce.DAL\bin\Debug\net5.0\ref\Ecommerce.DAL.dll
+C:\Users\g\Documents\my-github\Ecommerce-Web-App\Ecommerce.DAL\bin\Debug\net5.0\Ecommerce.DAL.pdb
+C:\Users\g\Documents\my-github\Ecommerce-Web-App\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.csproj.AssemblyReference.cache
+C:\Users\g\Documents\my-github\Ecommerce-Web-App\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g\Documents\my-github\Ecommerce-Web-App\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.AssemblyInfoInputs.cache
+C:\Users\g\Documents\my-github\Ecommerce-Web-App\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.AssemblyInfo.cs
+C:\Users\g\Documents\my-github\Ecommerce-Web-App\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.csproj.CoreCompileInputs.cache
+C:\Users\g\Documents\my-github\Ecommerce-Web-App\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.dll
+C:\Users\g\Documents\my-github\Ecommerce-Web-App\Ecommerce.DAL\obj\Debug\net5.0\ref\Ecommerce.DAL.dll
+C:\Users\g\Documents\my-github\Ecommerce-Web-App\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.pdb
+C:\Users\g\Documents\my-github\Ecommerce-Web-App\Ecommerce.DAL\obj\Debug\net5.0\Ecommerce.DAL.genruntimeconfig.cache
